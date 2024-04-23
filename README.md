@@ -1,0 +1,1 @@
+# gksphonev2-locales
