@@ -26,7 +26,8 @@
         "PHONE_PIN_ACCOUNTCHECK": "Checking Please Wait",
         "PHONE_PIN_EMAILPASSWORD_BLANK": "Email or password can't be blank",
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "Email or password is incorrect",
-        "PHONE_PIN_INFO": "Your password is {pin}" 
+        "PHONE_PIN_INFO": "Your password is {pin}",
+        "PHONE_PASSCODE_FORGOT": "Forgot Password"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Your phone is already charging",
@@ -282,7 +283,7 @@
         "APP_MESSAGE_CONTACT": "A contact was shared",
         "APP_MESSAGE_STORYUPLOAD": "Uploading Story...",
         "APP_MESSAGE_PLACEHOLDER": "Type a message",
-        "APP_MESSAGE_OPTION_CANCEL": "Cancel"     
+        "APP_MESSAGE_OPTION_CANCEL": "Cancel"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Hello",
@@ -981,7 +982,7 @@
         "APP_BUSINESS_OPEN" : "Open",
         "APP_BUSINESS_CLOSE" : "Close",
         "APP_BUSINESS_APPLICATION_SENDERROR": "Since you have already applied for a job, you can't apply again.",
-        "APP_BUSINESS_APPLICATION_SENDSUCESS": "Job application sent successfully" 
+        "APP_BUSINESS_APPLICATION_SENDSUCESS": "Job application sent successfully"
     },
     "GamesAPP": {
         "APP_GAME_TITLE": "Games",
@@ -1061,7 +1062,8 @@
         "APP_SIM_NEWNUMBERSUCESS": "Sucess, Your new number is {number}. Don't forget to buy package.",
         "APP_SIM_SUCESS": "Success",
         "APP_SIM_ERROR": "Error",
-        "APP_SIM_BANKDETAIL": "Phone {value} usage"
+        "APP_SIM_BANKDETAIL": "Phone {value} usage",
+        "APP_SIM_LIMITPHONENUMBER": "You can't buy a new number because you have reached the limit"
     },
     "PlayTubeAPP": {
         "APP_PLAYTUBE_TITLE": "PlayTube",

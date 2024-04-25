@@ -26,7 +26,8 @@
         "PHONE_PIN_ACCOUNTCHECK": "Kontrol ediliyor",
         "PHONE_PIN_EMAILPASSWORD_BLANK": "E-posta veya şifre boş olamaz",
         "PHONE_PIN_EMAILPASSWORD_INCORRECT": "E-posta veya şifre yanlış",
-        "PHONE_PIN_INFO": "Şifreniz {pin}"
+        "PHONE_PIN_INFO": "Şifreniz {pin}",
+        "PHONE_PASSCODE_FORGOT": "Şifremi Unuttum"
     },
     "Charge": {
         "APP_CHARGE_ALREADY": "Telefon zaten şarj oluyor",
@@ -281,7 +282,7 @@
         "APP_MESSAGE_CONTACT": "Kişi paylaşıldı",
         "APP_MESSAGE_STORYUPLOAD": "Hikaye yükleniyor...",
         "APP_MESSAGE_PLACEHOLDER": "Bir mesaj yazın",
-        "APP_MESSAGE_OPTION_CANCEL": "Cancel"     
+        "APP_MESSAGE_OPTION_CANCEL": "Cancel"
     },
     "SetupScreen": {
         "PHONE_SETUP_HELLO": "Merhaba",
@@ -289,7 +290,7 @@
         "SettingLangueage": "Dil ayarlanıyor...",
         "PHONE_SETUP_LOGINGKSID": "GKS ID",
         "PHONE_SETUP_LOGINGKSIDDETAIL": "Telefon hesabınıza giriş yapın. Eğer bir hesabınız varsa, bulut verilerinize erişebilirsiniz.",
-        "PHONE_SETUP_LOGINGKSIDPLACEHOLDER": "Email", 
+        "PHONE_SETUP_LOGINGKSIDPLACEHOLDER": "Email",
         "PHONE_SETUP_LOGINPASSWORD": "Şifre",
         "PHONE_SETUP_LOGINPASSWORDPLACEHOLDER": "Şifrenizi girin",
         "PHONE_SETUP_LOGINLOGIN": "Giriş Yap",
@@ -743,7 +744,7 @@
         "APP_STOCKMARKET_MODAL_CANCEL": "İptal",
         "APP_STOCKMARKET_MODAL_SELECTCOIN": "Coin Seç",
         "APP_STOCKMARKET_MODAL_SELECT" : "Seç",
-        "APP_STOCKMARKET_NOTIFY_TRANSFERSUCESSTWO": "{amount} coin gönderildi" 
+        "APP_STOCKMARKET_NOTIFY_TRANSFERSUCESSTWO": "{amount} coin gönderildi"
     },
     "Tuneify": {
         "APP_TUNEIFY_TITLE": "Tuneify",
@@ -1058,7 +1059,8 @@
         "APP_SIM_NEWNUMBERSUCESS": "Başarılı, Yeni numaranız: {number}. Paket almayı unutmayın.",
         "APP_SIM_SUCESS": "Başarılı",
         "APP_SIM_ERROR": "Hata",
-        "APP_SIM_BANKDETAIL": "Telefon {value} kullanımı"
+        "APP_SIM_BANKDETAIL": "Telefon {value} kullanımı",
+        "APP_SIM_LIMITPHONENUMBER": "Limite ulaştığınız için yeni bir numara satın alamazsınız"
     },
     "PlayTubeAPP": {
         "APP_PLAYTUBE_TITLE": "PlayTube",
